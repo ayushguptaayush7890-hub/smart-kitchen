@@ -1,0 +1,7 @@
+ultralytics
+fastapi
+uvicorn
+pillow
+pandas
+python-multipart
+google-generativeai
